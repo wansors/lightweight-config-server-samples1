@@ -1,2 +1,3 @@
-file.env=dev
-type=yml
+file
+  env:dev
+  type:yml
