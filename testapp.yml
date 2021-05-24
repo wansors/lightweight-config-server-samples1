@@ -1,4 +1,8 @@
 ---
+"%dev":
+  quarkus:
+    log:
+      level: WARN
 quarkus:
   smallrye-health:
     root-path: /actuator/health
